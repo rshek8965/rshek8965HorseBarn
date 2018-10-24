@@ -1,11 +1,11 @@
 package com.company;
 
-public class Zebra implements Horse {
+public class Mustang implements Horse {
 
     private String name;
     private int weight;
 
-    public Zebra (String name, int weight) {
+    public Mustang (String name, int weight) {
         this.name = name;
         this.weight = weight;
     }
